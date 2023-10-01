@@ -56,7 +56,7 @@ To learn more, visit [ohmyz.sh](https://ohmyz.sh), follow [@ohmyzsh](https://twi
 
 </details>
 
-## Getting Started
+## Getting Started 🏁
 
 ### Prerequisites
 
@@ -88,7 +88,7 @@ wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
 sh install.sh
 ```
 
-## Using Oh My Zsh
+## Using Oh My Zsh 🔭
 
 ### Plugins
 
@@ -176,7 +176,7 @@ ZSH_THEME_RANDOM_IGNORED=(pygmalion tjkirch_mod)
 
 If you have some more questions or issues, you might find a solution in our [FAQ](https://github.com/ohmyzsh/ohmyzsh/wiki/FAQ).
 
-## Advanced Topics
+## Advanced Topics 📈
 
 If you're the type that likes to get their hands dirty, these sections might resonate.
 
@@ -398,7 +398,7 @@ omz update
 
 Magic! 🎉
 
-## Uninstalling Oh My Zsh
+## Uninstalling Oh My Zsh 😢
 
 Oh My Zsh isn't for everyone. We'll miss you, but we want to make this an easy breakup.
 
